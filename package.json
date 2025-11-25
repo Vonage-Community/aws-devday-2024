@@ -14,7 +14,7 @@
   "dependencies": {
     "@vonage/server-sdk": "^3.16.0",
     "aws-sdk": "^2.1687.0",
-    "body-parser": "^1.20.2",
+    "body-parser": "^2.0.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "debug": "^4.3.6",
