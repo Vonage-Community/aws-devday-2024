@@ -25,7 +25,7 @@
     "fast-glob": "^3.3.2",
     "lodash-es": "^4.17.21",
     "node-fetch": "^3.3.2",
-    "twig": "^1.17.1",
+    "twig": "^2.0.0",
     "unique-names-generator": "^4.7.1"
   },
   "devDependencies": {
